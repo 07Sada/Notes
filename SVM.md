@@ -17,3 +17,5 @@ It can manage high-dimensional data and nonlinear relationships, making it adapt
 the input space into a higher dimmensional space where a hyperplane can be used to separate the data.
 
 - SVMs are widely used in various fields, including patter recognition, image analysis, and natural language processing.
+
+Return to [home page](README.md)
