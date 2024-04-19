@@ -19,4 +19,4 @@ Boosting has several advantages:
 - *Better handling of imbalanced dataset* : Boosting can handle imbalance data by forcing more on the data points that are misclassified.
 - *Better Interpretability* : Boosting can increase the interpretability of the model by breaking the model decision process into multiple processes.
 
-Return the [home page](README.md)
+Return the [home page](home.md)
