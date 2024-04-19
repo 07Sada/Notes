@@ -6,3 +6,5 @@ This repository contains the notes on machine learning and deep learning topics
 [Logistic Regression](Logistic_Regression.md)
 
 [Support Vector Machine (SVM)](SVM.md)
+
+[Boosting Technique](Boosting Alogrithm.md)
