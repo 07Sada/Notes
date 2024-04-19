@@ -7,4 +7,4 @@ This repository contains the notes on machine learning and deep learning topics
 
 [Support Vector Machine (SVM)](SVM.md)
 
-[Boosting Technique](Boosting Algorithm.md)
+[Boosting Technique](Boosting_Algorithm.md)
